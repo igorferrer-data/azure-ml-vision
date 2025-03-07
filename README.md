@@ -72,7 +72,7 @@ Caso esse ultimo passo apresente erro: ResourceOperationFailure: Resource provid
 ### Teste 02 - Identificar texto na foto:
 ![image](https://github.com/user-attachments/assets/30df6005-95c3-4cba-8be6-d59778a506e6)
 
-![image](https://github.com/user-attachments/assets/3261747b-c442-43ac-b5bc-3b0d7576c0f4)
+
 
 
 ### Teste 03 - Descrevendo a imagem/foto:
